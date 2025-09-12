@@ -1,6 +1,6 @@
 <h1 align='center'>Hello there, I am Jeremiah Samuel👋🏾</h1> 
 
-<p align='center'>A Blockchain & Frontend Developer currently learning Zero knowledge Technology focused on (Writing Smart Contracts, Solidity, Hardhat, Web3, React.js, TypeScript, Tailwind CSS). Hit me up for a gig! </p>
+<p align='center'>A Blockchain & Frontend Developer currently learning Zero knowledge Technology focused on (Writing Smart Contracts, Solidity, Hardhat, Web3, React.js, TypeScript, Tailwind CSS). I would love to collaborate with you. Lets Gooooo! </p>
 
 <p align='center'>
 
